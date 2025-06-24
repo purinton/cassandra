@@ -1,7 +1,7 @@
 {
     "name": "@purinton/cassandra",
     "type": "module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A modern, multi-language Discord bot for creative games, drawing prompts, and more. Features modular commands, event handlers, and easy customization.",
     "main": "cassandra.mjs",
     "scripts": {
