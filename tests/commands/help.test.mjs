@@ -9,7 +9,7 @@ describe('help command', () => {
     const interaction = { reply };
     await help({ log, msg }, interaction);
     expect(log.debug).toHaveBeenCalledWith('help Request', { interaction });
-    expect(log.debug).toHaveBeenCalledWith('help Response', expect.objectContaining({ content: 'This is the default help text.' }));
+    expect(log.debug).toHaveBeenCalledWith('help Response', expect.objectContaining({ response: expect.objectContaining({ content: 'This is the default help text.' }) }));
     expect(reply).toHaveBeenCalledWith(expect.objectContaining({ content: 'This is the default help text.' }));
   });
 });
