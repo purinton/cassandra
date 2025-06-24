@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Không thể tạo gợi ý. Vui lòng thử lại sau.",
-    "trait": "Tính cách",
+    "prompt_error": "Không thể tạo một prompt. Vui lòng thử lại sau.",
+    "trait": "Đặc điểm",
     "hobby": "Sở thích",
-    "object": "Đồ vật"
+    "object": "Đối tượng",
+    "help": "**Chào mừng đến với Cassandra Bot!**\n\nSử dụng `/prompt` để tạo một prompt sáng tạo với một đặc điểm tính cách, sở thích và đối tượng ngẫu nhiên.\n\n**Lệnh:**\n- `/prompt` — Tạo một prompt mới cho trò chơi vẽ hoặc sáng tạo của bạn.\n- `/help` — Hiển thị thông điệp trợ giúp này.\n\n**Cách sử dụng:**\n1. Gõ `/prompt` trong bất kỳ kênh nào mà bot có mặt.\n2. Bot sẽ trả lời với một prompt chứa một đặc điểm, sở thích và đối tượng.\n3. Sử dụng prompt cho trò chơi, vẽ hoặc lấy cảm hứng!\n\n**Cần thêm trợ giúp hoặc muốn tham gia cộng đồng?**\n[Tham gia máy chủ Discord của chúng tôi để được hỗ trợ!](https://discord.gg/QSBxQnX7PF)"
 }

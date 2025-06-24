@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Prompt konnte nicht generiert werden. Bitte versuchen Sie es später erneut.",
+    "prompt_error": "Fehler beim Generieren eines Prompts. Bitte versuchen Sie es später erneut.",
     "trait": "Eigenschaft",
     "hobby": "Hobby",
-    "object": "Objekt"
+    "object": "Objekt",
+    "help": "**Willkommen beim Cassandra Bot!**\n\nVerwenden Sie `/prompt`, um einen kreativen Prompt mit einer Persönlichkeitseigenschaft, einem Hobby und einem zufälligen Objekt zu generieren.\n\n**Befehle:**\n- `/prompt` — Generiert einen neuen Prompt für Ihr Zeichen- oder Kreativspiel.\n- `/help` — Zeigt diese Hilfemeldung an.\n\n**So verwenden Sie es:**\n1. Geben Sie `/prompt` in einen Kanal ein, in dem der Bot anwesend ist.\n2. Der Bot antwortet mit einem Prompt, der eine Eigenschaft, ein Hobby und ein Objekt enthält.\n3. Verwenden Sie den Prompt für Ihr Spiel, Zeichnen oder zur Inspiration!\n\n**Brauchen Sie mehr Hilfe oder möchten Sie der Community beitreten?**\n[Trete unserem Discord-Server für Unterstützung bei!](https://discord.gg/QSBxQnX7PF)"
 }

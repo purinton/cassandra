@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Nem sikerült generálni a promptot. Kérjük, próbálja meg később.",
-    "trait": "Tulajdonság",
+    "prompt_error": "A prompt generálása nem sikerült. Kérlek, próbáld meg később.",
+    "trait": "Jellemző",
     "hobby": "Hobbi",
-    "object": "Tárgy"
+    "object": "Tárgy",
+    "help": "**Üdvözlünk a Cassandra Botban!**\n\nHasználj `/prompt` parancsot, hogy generálj egy kreatív promptot egy személyiségjeggyel, hobbival és véletlenszerű tárggyal.\n\n**Parancsok:**\n- `/prompt` — Új promptot generál a rajzolásodhoz vagy kreatív játékodhoz.\n- `/help` — Megjeleníti ezt a súgó üzenetet.\n\n**Hogyan használd:**\n1. Írd be a `/prompt` parancsot bármelyik csatornára, ahol a bot jelen van.\n2. A bot válaszolni fog egy prompttal, amely tartalmaz egy jellemzőt, hobbít és tárgyat.\n3. Használj a promptot a játékodhoz, rajzolásodhoz vagy inspirációhoz!\n\n**További segítségre van szükséged, vagy csatlakozni szeretnél a közösséghez?**\n[Csatlakozz a Discord szerverünkhöz a támogatásért!](https://discord.gg/QSBxQnX7PF)"
 }

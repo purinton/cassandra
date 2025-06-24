@@ -1,6 +1,7 @@
 {
     "prompt_error": "Nie udało się wygenerować podpowiedzi. Spróbuj ponownie później.",
-    "trait": "Cechą",
+    "trait": "Cechy",
     "hobby": "Hobby",
-    "object": "Obiekt"
+    "object": "Obiekt",
+    "help": "**Witaj w Cassandra Bot!**\n\nUżyj `/prompt`, aby wygenerować kreatywną podpowiedź z cechą osobowości, hobby i losowym obiektem.\n\n**Polecenia:**\n- `/prompt` — Generuje nową podpowiedź do twojej gry rysunkowej lub kreatywnej.\n- `/help` — Wyświetla tę wiadomość pomocy.\n\n**Jak używać:**\n1. Wpisz `/prompt` w dowolnym kanale, w którym jest obecny bot.\n2. Bot odpowie podpowiedzią zawierającą cechę, hobby i obiekt.\n3. Użyj podpowiedzi do swojej gry, rysunku lub inspiracji!\n\n**Potrzebujesz więcej pomocy lub chcesz dołączyć do społeczności?**\n[Dołącz do naszego serwera Discord, aby uzyskać wsparcie!](https://discord.gg/QSBxQnX7PF)"
 }

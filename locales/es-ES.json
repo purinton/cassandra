@@ -1,6 +1,7 @@
 {
-    "prompt_error": "No se pudo generar un mensaje. Por favor, inténtalo de nuevo más tarde.",
+    "prompt_error": "Error al generar un aviso. Por favor, inténtalo de nuevo más tarde.",
     "trait": "Rasgo",
-    "hobby": "Afición",
-    "object": "Objeto"
+    "hobby": "Pasatiempo",
+    "object": "Objeto",
+    "help": "**¡Bienvenido a Cassandra Bot!**\n\nUsa `/prompt` para generar un aviso creativo con un rasgo de personalidad, un pasatiempo y un objeto aleatorio.\n\n**Comandos:**\n- `/prompt` — Genera un nuevo aviso para tu juego de dibujo o creatividad.\n- `/help` — Muestra este mensaje de ayuda.\n\n**Cómo usar:**\n1. Escribe `/prompt` en cualquier canal donde esté presente el bot.\n2. El bot responderá con un aviso que contiene un rasgo, un pasatiempo y un objeto.\n3. ¡Usa el aviso para tu juego, dibujo o inspiración!\n\n**¿Necesitas más ayuda o quieres unirte a la comunidad?**\n[¡Únete a nuestro servidor de Discord para obtener soporte!](https://discord.gg/QSBxQnX7PF)"
 }

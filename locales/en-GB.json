@@ -2,5 +2,6 @@
     "prompt_error": "Failed to generate a prompt. Please try again later.",
     "trait": "Trait",
     "hobby": "Hobby",
-    "object": "Object"
+    "object": "Object",
+    "help": "**Welcome to Cassandra Bot!**\n\nUse `/prompt` to generate a creative prompt with a personality trait, hobby, and random object.\n\n**Commands:**\n- `/prompt` — Generates a new prompt for your drawing or creativity game.\n- `/help` — Shows this help message.\n\n**How to use:**\n1. Type `/prompt` in any channel where the bot is present.\n2. The bot will reply with a prompt containing a trait, hobby, and object.\n3. Use the prompt for your game, drawing, or inspiration!\n\n**Need more help or want to join the community?**\n[Join our Discord server for support!](https://discord.gg/QSBxQnX7PF)"
 }

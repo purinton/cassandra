@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Não foi possível gerar um prompt. Por favor, tente novamente mais tarde.",
-    "trait": "Característica",
+    "prompt_error": "Falha ao gerar um prompt. Por favor, tente novamente mais tarde.",
+    "trait": "Traço",
     "hobby": "Hobby",
-    "object": "Objeto"
+    "object": "Objeto",
+    "help": "**Bem-vindo ao Cassandra Bot!**\n\nUse `/prompt` para gerar um prompt criativo com um traço de personalidade, hobby e objeto aleatório.\n\n**Comandos:**\n- `/prompt` — Gera um novo prompt para seu jogo de criatividade ou desenho.\n- `/help` — Mostra esta mensagem de ajuda.\n\n**Como usar:**\n1. Digite `/prompt` em qualquer canal onde o bot esteja presente.\n2. O bot responderá com um prompt contendo um traço, hobby e objeto.\n3. Use o prompt para seu jogo, desenho ou inspiração!\n\n**Precisa de mais ajuda ou quer se juntar à comunidade?**\n[Entre no nosso servidor Discord para suporte!](https://discord.gg/QSBxQnX7PF)"
 }

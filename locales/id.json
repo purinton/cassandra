@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Gagal membuat prompt. Silakan coba lagi nanti.",
+    "prompt_error": "Gagal menghasilkan prompt. Silakan coba lagi nanti.",
     "trait": "Sifat",
     "hobby": "Hobi",
-    "object": "Objek"
+    "object": "Objek",
+    "help": "**Selamat datang di Cassandra Bot!**\n\nGunakan `/prompt` untuk menghasilkan prompt kreatif dengan sifat, hobi, dan objek acak.\n\n**Perintah:**\n- `/prompt` — Menghasilkan prompt baru untuk permainan menggambar atau kreativitas Anda.\n- `/help` — Menampilkan pesan bantuan ini.\n\n**Cara menggunakan:**\n1. Ketik `/prompt` di saluran mana pun di mana bot hadir.\n2. Bot akan membalas dengan prompt yang berisi sifat, hobi, dan objek.\n3. Gunakan prompt untuk permainan, menggambar, atau inspirasi Anda!\n\n**Butuh bantuan lebih lanjut atau ingin bergabung dengan komunitas?**\n[Bergabunglah dengan server Discord kami untuk dukungan!](https://discord.gg/QSBxQnX7PF)"
 }

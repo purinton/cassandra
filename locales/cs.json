@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Nepodařilo se vygenerovat prompt. Zkuste to prosím později.",
+    "prompt_error": "Nepodařilo se vygenerovat výzvu. Zkuste to prosím znovu později.",
     "trait": "Vlastnost",
     "hobby": "Koníček",
-    "object": "Předmět"
+    "object": "Objekt",
+    "help": "**Vítejte u Cassandra Bota!**\n\nPoužijte `/prompt` k vygenerování kreativní výzvy s osobnostní vlastností, koníčkem a náhodným objektem.\n\n**Příkazy:**\n- `/prompt` — Vygeneruje novou výzvu pro vaši kresbu nebo kreativní hru.\n- `/help` — Zobrazí tuto pomocnou zprávu.\n\n**Jak používat:**\n1. Napište `/prompt` v jakémkoli kanálu, kde je bot přítomen.\n2. Bot odpoví výzvou obsahující vlastnost, koníček a objekt.\n3. Použijte výzvu pro svou hru, kresbu nebo inspiraci!\n\n**Potřebujete další pomoc nebo se chcete připojit ke komunitě?**\n[Připojte se k našemu Discord serveru pro podporu!](https://discord.gg/QSBxQnX7PF)"
 }

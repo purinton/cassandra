@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Kunne ikke generere et prompt. Vennligst prøv igjen senere.",
+    "prompt_error": "Feil ved generering av en prompt. Vennligst prøv igjen senere.",
     "trait": "Egenskap",
     "hobby": "Hobby",
-    "object": "Objekt"
+    "object": "Objekt",
+    "help": "**Velkommen til Cassandra Bot!**\n\nBruk `/prompt` for å generere en kreativ prompt med en personlighetsegenskap, hobby og tilfeldig objekt.\n\n**Kommandoer:**\n- `/prompt` — Genererer en ny prompt for tegningen din eller kreativitetsspill.\n- `/help` — Viser denne hjelpeteksten.\n\n**Slik bruker du:**\n1. Skriv `/prompt` i hvilken som helst kanal der boten er til stede.\n2. Boten vil svare med en prompt som inneholder en egenskap, hobby og objekt.\n3. Bruk prompten til spillet ditt, tegning eller inspirasjon!\n\n**Trenger du mer hjelp eller vil bli med i fellesskapet?**\n[Bli med i Discord-serveren vår for støtte!](https://discord.gg/QSBxQnX7PF)"
 }

@@ -1,6 +1,7 @@
 {
-    "prompt_error": "İpucu oluşturulamadı. Lütfen daha sonra tekrar deneyin.",
+    "prompt_error": "Bir istem oluşturulamadı. Lütfen daha sonra tekrar deneyin.",
     "trait": "Özellik",
     "hobby": "Hobi",
-    "object": "Nesne"
+    "object": "Nesne",
+    "help": "**Cassandra Bot'a Hoş Geldiniz!**\n\nBir kişilik özelliği, hobi ve rastgele nesne ile yaratıcı bir istem oluşturmak için `/prompt` komutunu kullanın.\n\n**Komutlar:**\n- `/prompt` — Çizim veya yaratıcılık oyununuz için yeni bir istem oluşturur.\n- `/help` — Bu yardım mesajını gösterir.\n\n**Nasıl kullanılır:**\n1. Botun bulunduğu herhangi bir kanala `/prompt` yazın.\n2. Bot, bir özellik, hobi ve nesne içeren bir istem ile yanıt verecektir.\n3. İstemi oyununuz, çiziminiz veya ilhamınız için kullanın!\n\n**Daha fazla yardıma mı ihtiyacınız var yoksa topluluğa katılmak mı istiyorsunuz?**\n[Destek için Discord sunucumuza katılın!](https://discord.gg/QSBxQnX7PF)"
 }

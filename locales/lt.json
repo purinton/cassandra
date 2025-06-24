@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Nepavyko sugeneruoti užklausos. Bandykite dar kartą vėliau.",
-    "trait": "Savybė",
-    "hobby": "Pomėgis",
-    "object": "Objektas"
+    "prompt_error": "Nepavyko sugeneruoti užklausos. Prašome bandyti vėl vėliau.",
+    "trait": "Bruožas",
+    "hobby": "Hobis",
+    "object": "Objektas",
+    "help": "**Sveiki atvykę į Cassandra Bot!**\n\nNaudokite `/prompt`, kad sugeneruotumėte kūrybinę užklausą su asmenybės bruožu, hobiu ir atsitiktiniu objektu.\n\n**Komandos:**\n- `/prompt` — Sugeneruoja naują užklausą jūsų piešimui ar kūrybiniam žaidimui.\n- `/help` — Rodo šį pagalbos pranešimą.\n\n**Kaip naudoti:**\n1. Įveskite `/prompt` bet kurioje kanale, kur yra bot'as.\n2. Bot'as atsakys užklausa, kurioje bus bruožas, hobis ir objektas.\n3. Naudokite užklausą savo žaidimui, piešimui ar įkvėpimui!\n\n**Reikia daugiau pagalbos ar norite prisijungti prie bendruomenės?**\n[Prašome prisijungti prie mūsų Discord serverio dėl pagalbos!](https://discord.gg/QSBxQnX7PF)"
 }

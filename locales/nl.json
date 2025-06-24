@@ -2,5 +2,6 @@
     "prompt_error": "Kon geen prompt genereren. Probeer het later opnieuw.",
     "trait": "Eigenschap",
     "hobby": "Hobby",
-    "object": "Object"
+    "object": "Object",
+    "help": "**Welkom bij Cassandra Bot!**\n\nGebruik `/prompt` om een creatieve prompt te genereren met een persoonlijkheidseigenschap, hobby en willekeurig object.\n\n**Commando's:**\n- `/prompt` — Genereert een nieuwe prompt voor je teken- of creativiteitsspel.\n- `/help` — Toont dit helpbericht.\n\n**Hoe te gebruiken:**\n1. Typ `/prompt` in een kanaal waar de bot aanwezig is.\n2. De bot zal reageren met een prompt die een eigenschap, hobby en object bevat.\n3. Gebruik de prompt voor je spel, tekening of inspiratie!\n\n**Heb je meer hulp nodig of wil je lid worden van de community?**\n[Word lid van onze Discord-server voor ondersteuning!](https://discord.gg/QSBxQnX7PF)"
 }

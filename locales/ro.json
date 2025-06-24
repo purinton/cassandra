@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Nu s-a putut genera un prompt. Vă rugăm să încercați din nou mai târziu.",
+    "prompt_error": "A generat o promptă. Te rog să încerci din nou mai târziu.",
     "trait": "Trăsătură",
     "hobby": "Hobby",
-    "object": "Obiect"
+    "object": "Obiect",
+    "help": "**Bine ai venit la Cassandra Bot!**\n\nFolosește `/prompt` pentru a genera o promptă creativă cu o trăsătură de personalitate, un hobby și un obiect aleator.\n\n**Comenzi:**\n- `/prompt` — Generează o nouă promptă pentru desenul tău sau jocul de creativitate.\n- `/help` — Afișează acest mesaj de ajutor.\n\n**Cum să folosești:**\n1. Scrie `/prompt` în orice canal unde botul este prezent.\n2. Botul va răspunde cu o promptă care conține o trăsătură, un hobby și un obiect.\n3. Folosește prompta pentru jocul tău, desen sau inspirație!\n\n**Ai nevoie de mai mult ajutor sau vrei să te alături comunității?**\n[Alătură-te serverului nostru Discord pentru suport!](https://discord.gg/QSBxQnX7PF)"
 }

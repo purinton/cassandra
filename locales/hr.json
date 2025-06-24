@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Nije moguće generirati prompt. Pokušajte ponovo kasnije.",
+    "prompt_error": "Nije uspjelo generiranje upita. Pokušajte ponovo kasnije.",
     "trait": "Osobina",
     "hobby": "Hobi",
-    "object": "Predmet"
+    "object": "Objekt",
+    "help": "**Dobrodošli u Cassandra Bot!**\n\nKoristite `/prompt` za generiranje kreativnog upita s osobinom, hobijem i nasumičnim objektom.\n\n**Komande:**\n- `/prompt` — Generira novi upit za vašu igru crtanja ili kreativnost.\n- `/help` — Prikazuje ovu pomoćnu poruku.\n\n**Kako koristiti:**\n1. Upisite `/prompt` u bilo kojem kanalu gdje je bot prisutan.\n2. Bot će odgovoriti s upitom koji sadrži osobinu, hobi i objekt.\n3. Iskoristite upit za svoju igru, crtanje ili inspiraciju!\n\n**Trebate dodatnu pomoć ili želite se pridružiti zajednici?**\n[Pridružite se našem Discord serveru za podršku!](https://discord.gg/QSBxQnX7PF)"
 }

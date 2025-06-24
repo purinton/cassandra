@@ -1,6 +1,7 @@
 {
-    "prompt_error": "Kehoa ei voitu luoda. Yritä myöhemmin uudelleen.",
-    "trait": "Piirre",
+    "prompt_error": "Promptin luominen epäonnistui. Yritä uudelleen myöhemmin.",
+    "trait": "Ominaisuus",
     "hobby": "Harrastus",
-    "object": "Esine"
+    "object": "Esine",
+    "help": "**Tervetuloa Cassandra-botiin!**\n\nKäytä `/prompt` luodaksesi luovan kehotteen, jossa on persoonallisuusominaisuus, harrastus ja satunnainen esine.\n\n**Komennot:**\n- `/prompt` — Luo uusi kehotus piirustustasi tai luovaa peliäsi varten.\n- `/help` — Näyttää tämän ohjeviestin.\n\n**Kuinka käyttää:**\n1. Kirjoita `/prompt` mihin tahansa kanavaan, jossa botti on läsnä.\n2. Botti vastaa kehotteella, joka sisältää ominaisuuden, harrastuksen ja esineen.\n3. Käytä kehotetta pelissäsi, piirustuksessa tai inspiraationa!\n\n**Tarvitsetko lisää apua tai haluatko liittyä yhteisöön?**\n[Liity Discord-palvelimellemme saadaksesi tukea!](https://discord.gg/QSBxQnX7PF)"
 }
