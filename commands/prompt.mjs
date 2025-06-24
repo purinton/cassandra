@@ -1,13 +1,13 @@
 import { EmbedBuilder } from 'discord.js';
 
 // Command handler for /prompt
-export default async function ({ log, msg, openai }, interaction) {
+export default async function ({ log, msg, db, openai }, interaction) {
     log.debug('prompt Request', { interaction });
     await interaction.deferReply();
     const locale = interaction.locale || 'en-US';
     let result;
     try {
-        result = await openai.generatePrompt({ log, openai, locale });
+        result = await openai.generatePrompt({ log, db, openai, locale });
     } catch (err) {
         log.error('Error generating prompt:', err);
         await interaction.reply({ content: msg('prompt_error', 'Failed to generate prompt') });
