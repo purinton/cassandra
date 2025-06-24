@@ -12,7 +12,7 @@ registerSignals({ log });
 const promptConfig = JSON.parse(fs.readFileSync(path(import.meta, 'prompts', 'prompt.json'), 'utf8'));
 const packageJson = JSON.parse(fs.readFileSync(path(import.meta, 'package.json')), 'utf8');
 const version = packageJson.version;
-const presence = { activities: [{ name: `cassandra v${version}`, type: 4 }], status: 'online' };
+const presence = { activities: [{ name: `🎨 /prompt v${version}`, type: 4 }], status: 'online' };
 const openai = await createOpenAI();
 
 openai.promptConfig = promptConfig;
