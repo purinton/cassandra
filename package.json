@@ -2,7 +2,7 @@
     "name": "@purinton/cassandra",
     "type": "module",
     "version": "1.0.0",
-    "description": "A modern Discord app built with Node.js, based on the purinton/discord foundation.",
+    "description": "A modern, multi-language Discord bot for creative games, drawing prompts, and more. Features modular commands, event handlers, and easy customization.",
     "main": "cassandra.mjs",
     "scripts": {
         "start": "node cassandra.mjs",
@@ -13,8 +13,17 @@
         "url": "git+https://github.com/purinton/cassandra.git"
     },
     "keywords": [
+        "discord",
+        "discord-bot",
+        "prompt",
+        "drawing",
+        "game",
+        "openai",
+        "localization",
+        "multi-language",
+        "nodejs",
         "cassandra",
-        "nodejs"
+        "purinton"
     ],
     "author": "Russell Purinton <russell@purinton.us>",
     "license": "MIT",
