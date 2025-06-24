@@ -30,9 +30,9 @@ export async function generatePrompt({ log, db, openai, locale }) {
     log.debug('Generating prompt', { usedLocale });
     let usedPrompts = [];
     try {
-        usedPrompts = await fetchRecent({ log, db, limit: 100 });
+        usedPrompts = await openai.fetchRecent({ log, db, limit: 100 });
     } catch (err) {
-        logger.error('Failed to fetch history:', err);
+        log.error('Failed to fetch history:', err);
     }
     const config = JSON.parse(JSON.stringify(openai.promptConfig));
     if (config.messages && config.messages[0] && config.messages[0].content) {
@@ -47,7 +47,7 @@ export async function generatePrompt({ log, db, openai, locale }) {
         const args = JSON.parse(completion.choices[0].message.function_call.arguments);
         const { personality_trait, hobby, object } = args;
         await openai.store({ log, db, personality_trait, hobby, object });
-        log.info(`Generated prompt: ${personality_trait}, ${hobby}, ${object}`);
+        log.debug(`Generated prompt: ${personality_trait}, ${hobby}, ${object}`);
         return [personality_trait, hobby, object];
     } catch (error) {
         log.error('OpenAI request failed:', error);
